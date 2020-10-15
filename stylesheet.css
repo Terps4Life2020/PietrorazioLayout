@@ -10,4 +10,6 @@ href="stylesheet.css">
 h1 {
   font-family: Helvetica;
   font-weight: bold;
+  font-height: 100px;
+  color: purple;
 }
