@@ -6,9 +6,12 @@ href="stylesheet.css">
   width: 900px;
 }
 
-h1 {
+h2 {
   font-family: Helvetica;
-  font-weight: bold;
   font-height: 100px;
   color: purple;
+}
+
+h3 {
+  font-style: italics;
 }
