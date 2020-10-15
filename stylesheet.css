@@ -6,10 +6,15 @@ href="stylesheet.css">
   width: 900px;
 }
 
+#newsroom {
+  text-align: center;
+  color: purple;
+  background-color: organge;
+}
+
 h2 {
   font-family: Helvetica;
   font-height: 100px;
-  color: purple;
 }
 
 h3 {
