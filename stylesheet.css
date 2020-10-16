@@ -9,11 +9,11 @@
   text-align: center;
   font-family: Helvetica;
   padding: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
   font-size: 50px;
   color: #e68a00;
   background-color: #331f00;
-
-}
 
 #story {
   font-family: Helvetica;
@@ -27,11 +27,12 @@
   font-family: Helvetica;
   font-size: 20px;
   padding-top: 15px;
-  color: #e68a00;
+  color: #ffc34d;
 }
 
 body {
   background-color: #332200;
   color: #e68a00;
   font-family: Helvetica;
+  font-size: 14px;
 }
