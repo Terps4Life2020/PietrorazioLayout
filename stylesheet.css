@@ -38,6 +38,21 @@ body {
   font-size: 15px;
 }
 
+.pquote {
+  float: left;
+  width: 200px;
+  font-weight: bold;
+  font-style: italic;
+  color: #ffc34d;
+  padding-bottom: 0px;
+  font-size: 20px;
+  margin: 0 5px 5px 0;
+}
+
+blockquote {
+  margin: 0;
+}
+
 #slogan {
   font-family: Helvetica;
   text-align: center;
@@ -47,4 +62,15 @@ body {
   font-size: 18px;
   padding: 5px;
   background-color: #e68a00;
+}
+
+.pquote2 {
+  float: right;
+  width: 250px;
+  font-weight: bold;
+  font-style: italic;
+  color: #ffc34d;
+  padding-top: 20px;
+  font-size: 20px;
+  margin: 0 5px 5px 0;
 }
