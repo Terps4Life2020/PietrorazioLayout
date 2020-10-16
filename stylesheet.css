@@ -35,5 +35,16 @@ body {
   background-color: #332200;
   color: #e68a00;
   font-family: Helvetica;
-  font-size: 14px;
+  font-size: 15px;
+}
+
+#slogan {
+  font-family: Helvetica;
+  text-align: center;
+  color: #331f00;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  background-color: #e68a00;
 }
