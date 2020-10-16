@@ -10,16 +10,17 @@ href="stylesheet.css">
   text-align: center;
   font-family: Helvetica;
   padding: 10px;
-  font-height: 100;
+  font: 100px;
   color: #8a00e6;
   background-color: #e6b800;
 }
 
 .story {
   font-family: Helvetica;
-  font-height: 100px;
+  font: 75px;
 }
 
 h3 {
-  font-style: italics;
+  font-weight: italic;
+  font: 50px;
 }
