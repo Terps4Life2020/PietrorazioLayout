@@ -8,9 +8,10 @@ href="stylesheet.css">
 
 #newsroom {
   text-align: center;
+  padding: 10px;
   font-height: 100;
-  color: purple;
-  background-color: orange;
+  color: #8a00e6;
+  background-color: #e6b800;
 }
 
 .story {
