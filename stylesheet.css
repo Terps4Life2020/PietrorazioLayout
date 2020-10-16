@@ -1,5 +1,4 @@
-<link rel="stylesheet" type="text/css"
-href="stylesheet.css">
+
 
 #content {
   margin: 0 auto;
@@ -9,10 +8,10 @@ href="stylesheet.css">
 #newsroom {
   text-align: center;
   font-family: Helvetica;
-  padding: 10px;
-  font: 100px;
-  color: #8a00e6;
-  background-color: #e6b800;
+  padding: 100px;
+  font-size: 50px;
+  color: #e6b800;
+  background-color: #8a00e6;
 }
 
 .story {
